@@ -2,7 +2,7 @@
 
 [English](README.md) | Português
 
-Este é o projeto final para o curso de RH. O objetivo é criar um sistema de RH que cumpra os requisitos especificados abaixo.
+Este é o projeto final para o módulo. O objetivo é criar um sistema de RH que cumpra os requisitos especificados abaixo.
 
 ## Requisitos
 
