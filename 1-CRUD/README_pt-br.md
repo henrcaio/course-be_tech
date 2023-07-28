@@ -11,8 +11,8 @@ O sistema deve ser capaz de armazenar registros de funcionários, incluindo nome
 Funcionalidades do sistema:
 
 - `Criar`: Permitir adicionar novos registros ao sistema.
-- `Ler` Encontrar registros completos, buscando pelo nome ou profissão. O nome deve ser apresentado com as primeiras letras maiúsculas, e o número de telefone deve estar no formato "(dd) 1234-5678". Os dados devem ser apresentados de forma visualmente agradável.
-- `Atualizar` Permitir atualizar um registro, buscando pelo número de telefone.
+- `Ler`: Encontrar registros completos, buscando pelo nome ou profissão. O nome deve ser apresentado com as primeiras letras maiúsculas, e o número de telefone deve estar no formato "(dd) 1234-5678". Os dados devem ser apresentados de forma visualmente agradável.
+- `Atualizar`: Permitir atualizar um registro, buscando pelo número de telefone.
 - `Deletar`: Permitir excluir um registro, buscando pelo número de telefone.
 
 Cada operação deve ser implementada em sua própria função. Deve ser possível chamar uma única função chamada `menu()`, que permitirá ao usuário acessar as diferentes operações.
