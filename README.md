@@ -15,3 +15,5 @@ I know it's cliché but drop a :star: if you don't mind! (it would be of GREAT h
 [CRUD :card_file_box:](1-CRUD)
 
 [ETL :arrows_counterclockwise:](2-ETL)
+
+[Programming Techniques :computer:](4-Prog_Techniques)
