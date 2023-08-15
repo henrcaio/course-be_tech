@@ -9,3 +9,5 @@ Utilizing "COVID DEATHS.csv" and "COVID VACCINATIONS.csv," containing COVID-19 d
 
 #### Approach
 Using ``Pandas``, ``Numpy`` for data manipulation and ``Seaborn/Matplotlib`` for visualization.
+
+### For a peek at the project, you can explore the [Project](Projeto_Final.ipynb) notebook. 
