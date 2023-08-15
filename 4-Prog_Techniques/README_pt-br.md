@@ -9,3 +9,5 @@ Utilizaremos os conjuntos de dados "COVID DEATHS.csv" e "COVID VACCINATIONS.csv,
 
 #### Abordagem
 Para a manipulação dos dados, faremos uso das bibliotecas `Pandas` e `Numpy`, enquanto para a visualização, utilizaremos as bibliotecas `Seaborn/Matplotlib`.
+
+### Para ver a análise, você pode explorar o [Projeto](Projeto_Final.ipynb). 
