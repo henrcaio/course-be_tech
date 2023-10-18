@@ -17,7 +17,7 @@ Our analysis employs a variety of powerful tools and libraries to extract insigh
 - **Seaborn/Matplotlib**: For data visualization and plotting.
 - **Scikit-Learn**: For machine learning algorithms.
 
-If you're interested in delving deeper into our analysis, feel free to explore the [Project Notebook](Projeto_MLI.ipynb).
+If you're interested in delving deeper into our analysis, feel free to explore the [Project Notebook](Projeto_ML1.ipynb).
 
 We hope you find our exploration of what makes songs successful both informative and engaging. If you have any questions or feedback, don't hesitate to reach out.
 
