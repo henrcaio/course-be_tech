@@ -17,3 +17,7 @@ I know it's cliché but drop a :star: if you don't mind! (it would be of GREAT h
 [ETL :arrows_counterclockwise:](2-ETL)
 
 [Programming Techniques :computer:](4-Prog_Techniques)
+
+[Machine Learning I :robot::brain:](5-Machine_Learning_I)
+
+[Machine Learning II :robot::brain:](6-Machine_Learning_II)
