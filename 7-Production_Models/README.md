@@ -17,7 +17,7 @@ Our analysis utilizes a variety of powerful tools and libraries to extract insig
 - **Seaborn/Matplotlib**: For data visualization and charts.
 - **Scikit-Learn**: For machine learning algorithms.
 
-If you're interested in delving deeper into our analysis, feel free to explore the [Project](app.py). You can also try our app [HERE](https://fakebillprediction.streamlit.app/)!
+If you're interested in delving deeper into our analysis, feel free to explore the [Project](app.py). You can also try our app [HERE](https://fakebillsapp.streamlit.app/)!
 
 If you have any questions or feedback, don't hesitate to get in touch.
 
