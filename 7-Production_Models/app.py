@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import joblib as jb
+import joblib
 
 # Definindo configuração da página
 st.set_page_config(
@@ -21,7 +21,7 @@ st.write(
 
 # Carregando o modelo treinado
 def carregar_modelo():
-    return jb.load("/workspaces/course-be_tech/7-Production_Models/modelo_treinado.pkl")
+    return joblib.load("modelo_treinado.pkl")
 
 
 # Recebendo as características da cédula    
