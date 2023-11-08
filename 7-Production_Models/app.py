@@ -21,7 +21,7 @@ st.write(
 
 # Carregando o modelo treinado
 def carregar_modelo():
-    return joblib.load("https://github.com/henrcaio/course-be_tech/blob/main/7-Production_Models/modelo_treinado.pkl")
+    return joblib.load("modelo_treinado.pkl")
 
 
 # Recebendo as características da cédula    
