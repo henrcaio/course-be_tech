@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import joblib
-from sklearn.cluster import KMeans
 
 # Definindo configuração da página
 st.set_page_config(
