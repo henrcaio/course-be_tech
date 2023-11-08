@@ -2,23 +2,23 @@
 
 English | [Português](README_pt-br.md)
 
-Welcome to our project, where we harness the power of Machine Learning algorithms to address a fundamental question: What characteristics make a song successful?
+Welcome to our project, where we use Machine Learning algorithms to address a critical question: the detection of counterfeit currency.
 
 ### Data Sources
 
-We leverage the "dataset.csv" dataset, which contains Spotify's music data. You can find this dataset on [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset).
+To tackle counterfeit currency detection, we make use of the "fake_bills_unsuperv" dataset, which is a variation of the "fake_bills.csv" dataset available on Kaggle.
 
 ### Approach
 
-Our analysis employs a variety of powerful tools and libraries to extract insights from the data, including:
+Our analysis utilizes a variety of powerful tools and libraries to extract insights from the data, including:
 
 - **Pandas**: For efficient data manipulation.
-- **NumPy**: For numerical computations and data handling.
-- **Seaborn/Matplotlib**: For data visualization and plotting.
+- **NumPy**: For numerical calculations and data handling.
+- **Seaborn/Matplotlib**: For data visualization and charts.
 - **Scikit-Learn**: For machine learning algorithms.
 
-If you're interested in delving deeper into our analysis, feel free to explore the [Project Notebook](Projeto_ML1.ipynb).
+If you're interested in delving deeper into our analysis, feel free to explore the [Project](app.py). You can also try our app [HERE](https://fakebillprediction.streamlit.app/)!
 
-We hope you find our exploration of what makes songs successful both informative and engaging. If you have any questions or feedback, don't hesitate to reach out.
+If you have any questions or feedback, don't hesitate to get in touch.
 
 Thank you for visiting our project!
