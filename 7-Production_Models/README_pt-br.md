@@ -17,7 +17,7 @@ Nossa análise utiliza uma variedade de ferramentas e bibliotecas poderosas para
 - **Seaborn/Matplotlib**: Para visualização de dados e gráficos.
 - **Scikit-Learn**: Para algoritmos de aprendizado de máquina.
 
-Se você estiver interessado em aprofundar-se em nossa análise, sinta-se à vontade para explorar o [Projeto](app.py). Ou mesmo experimentar nosso app [AQUI](https://fakebillprediction.streamlit.app/)!
+Se você estiver interessado em aprofundar-se em nossa análise, sinta-se à vontade para explorar o [Projeto](app.py). Ou mesmo experimentar nosso app [AQUI](https://fakebillsapp.streamlit.app/)!
 
 Se tiver alguma dúvida ou feedback, não hesite em entrar em contato.
 
